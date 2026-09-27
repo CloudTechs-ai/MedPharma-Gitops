@@ -1,4 +1,4 @@
-# CloudTechs GitOps
+# MedPharma GitOps
 
 **Production-style GitOps deployment platform for a cloud-native healthcare/pharma application running on AWS EKS.**
 
